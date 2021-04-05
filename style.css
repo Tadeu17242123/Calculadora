@@ -1,0 +1,62 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 250px;
+
+    background-image: url('https://cutewallpaper.org/21/calculator-wallpaper/Standard-Deviation-Calculator-Finance-Law.jpg');
+    background-color: #000000;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 0;
+    height: 80vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .calculadora {
+    box-shadow: -3px 6px 31px -5px rgba(0,0,0,0.76);
+-webkit-box-shadow: -3px 6px 31px -5px rgba(0,0,0,0.76);
+    top: 30px;
+    width: 264px;
+    height:360px;
+    background-image: url('https://iphoneate.com/wp-content/uploads/2010/05/IMG_00302.png');
+    margin: 0 auto;
+    position: relative;
+    border-radius:10px;
+  }
+  
+  h2 {
+    position: absolute;
+    font-size:16px;
+    font-weight:bold;
+    top: 142px;
+    left: calc(50% - 72.5px);
+    width: 145px;
+    text-align:center;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
+.prompt{
+   color: #ffffff;
+}
